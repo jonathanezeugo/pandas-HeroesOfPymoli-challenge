@@ -1,4 +1,4 @@
-# pandas-challenge
+# pandas-HeroesOfPymoli-challenge
 HeroesOfPymoli_Challenge
 
 About the pandas-challenge homework:
